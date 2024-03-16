@@ -2,6 +2,7 @@
   "dependencies": {
     "crypto-js": "^4.2.0",
     "js-database-connection": "^1.0.5",
+    "js-wraping-web": "^0.0.1",
     "sequelize": "^6.37.1"
   },
   "name": "js-blockchain",
